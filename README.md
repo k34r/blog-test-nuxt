@@ -1,6 +1,4 @@
-############################################
-https://blog-test-nuxt.vercel.app/
-############################################
+##########   https://blog-test-nuxt.vercel.app/   ##########
 
 # Nuxt Minimal Starter
 
